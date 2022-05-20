@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">AndroidProject</string>
+    <string-array name="products">
+        <item>Pubg - Battle royal</item>
+        <item>GTA-5</item>
+        <item>Call of duty</item>
+        <item>Fortnite</item>
+        <item>Clash of clans</item>
+        <item>Assassins Creed</item>
+
+
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Action Game</item>
+        <item>Arcade Game</item>
+        <item>Action Game</item>
+        <item>Strategy Game</item>
+        <item>Role-playing Game</item>
+        <item>Simulation Game</item>
+
+    </string-array>
+
+
+    <string-array name="prices">
+        <item>$99.99</item>
+        <item>$89.99</item>
+        <item>$123.99</item>
+        <item>$119.99</item>
+        <item>$79.99</item>
+        <item>$69.99</item>
+
+    </string-array>
+
+    <array name="genres">
+        <item>Action Game</item>
+        <item>Arcade Game</item>
+        <item>Action Game</item>
+        <item>Strategy Game</item>
+        <item>Role-playing Game</item>
+        <item>Simulation Game</item>
+    </array>
+
+    <string-array name="details">
+        <item>Pubg Players parachute down to a remote island and fight to remain as the last player standing, competing alone or in teams of two or four, depending on the gamemode selected before the match.</item>
+        <item>Grand Theft Auto V is an action-adventure game played from either a third-person or first-person perspective.Players complete missions—linear scenarios with set objectives—to progress through the story. Outside of the missions, players may freely roam the open world.</item>
+        <item>Call of Duty unlocks the Search and Deploy Event, where players are tasked with taking out Armored Transport trucks while infiltrating Chemical Research Laboratories before taking siege of the Chemical Factory and  take to the air by piloting Bombers that can turn the tides of war in an instant.</item>
+        <item>Fortnite is a free-to-play Battle Royale game with numerous game modes for every type of game player. Watch a concert, build an island or fight. This game have various mode which has next level real-life animations.</item>
+        <item>Clash of Clans is an online multiplayer game in which players form communities called clans, train troops, and attack other players to earn resources. They also give rewards to player in the game which attracts many players to play their game.</item>
+        <item>Assassins creed games is centered around one or more fictional members of the orders of their assassins, Whose memories is expreienced by an in-game character in the modern day period through the device called animus.</item>
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

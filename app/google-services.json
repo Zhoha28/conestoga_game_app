@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1081773351440",
+    "project_id": "conestoga-gaming-center-fgp",
+    "storage_bucket": "conestoga-gaming-center-fgp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081773351440:android:d58f9289268efb7c332095",
+        "android_client_info": {
+          "package_name": "com.example.androidproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081773351440-d9hmeugqai641ne0klcb069g2jlq8lrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXm_IaIUpOXkrvIB7DplcW_5KCf6SkM10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081773351440-d9hmeugqai641ne0klcb069g2jlq8lrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
